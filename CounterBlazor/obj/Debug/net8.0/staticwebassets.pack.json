@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mhanson\\source\\repos\\CounterBlazor\\CounterBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CounterBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CounterBlazor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mhanson\\source\\repos\\CounterBlazor\\CounterBlazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\mhanson\\source\\repos\\CounterBlazor\\CounterBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mhanson\\source\\repos\\CounterBlazor\\CounterBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mhanson\\source\\repos\\CounterBlazor\\CounterBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CounterBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CounterBlazor.props",
+      "PackagePath": "build\\CounterBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CounterBlazor.props",
+      "PackagePath": "buildMultiTargeting\\CounterBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CounterBlazor.props",
+      "PackagePath": "buildTransitive\\CounterBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
